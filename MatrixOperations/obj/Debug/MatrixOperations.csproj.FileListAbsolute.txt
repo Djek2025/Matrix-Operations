@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+c:\users\asus\documents\visual studio 2015\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
